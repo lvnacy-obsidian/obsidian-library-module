@@ -8,46 +8,57 @@ future.
 ## library nomenclature
 The library has broad terms to encompass the content recorded within:
 
-> [!info]- ASSET
+> [!note]
+> ASSET
 > An asset is any document that is not a note or a card. This includes PDFs, Pages docs, etc.
 
-> [!info]- CARD
+> [!note]
+> CARD
 > Cards are markdown documents that enumerate a specific asset. Book Cards enumerate book documents; Paper Cards enumerate academic paper documents; etc.
 
-> [!info]- NOTES
+> [!note]
+> NOTES
 > Notes are descriptive markdown documents that are neither Cards nor Assests.
 ## asset nomenclature
 Assets are further categorized according to particular nomenclature:
 
-> [!info]- BOOK
+> [!note]
+> BOOK
 > Books are documents containing entire books. Fiction, non-fiction, instructional, educational, for entertainment purposes, whatever.
 
-> [!note]- PAPER
+> [!note]
+> PAPER
 > Papers are documents that are academic in nature. These are often published in journals and made available as individual documents. This category includes whitepapers.
 
-> [!info]- ARTICLE
+> [!note]
+> ARTICLE
 > Articles are exported or scanned documents of posts found online or in paper magazines and newspapers. These are different from academic papers.
 
 ## frontmatter nomenclature
 Regarding notes' frontmatter, some clarity on property names:
 
-> [!info]- CATEGORY
+> [!note]
+> CATEGORY
 > Is it a book, paper, or article?
 
-> [!info]- TAGS
+> [!note]
+> TAGS
 > This enumerates the genre(s) an asset may fall into. As many documents span multiple genres, the tagging system within the library is specifically aimed at managing cross-genre pollination. 
 
-> [!info]- KEYWORDS
+> [!note]
+> KEYWORDS
 > Keywords operate much as tags would in systems outside of the library. These are oriented toward describing topical placement of assets.
 
 # 2 a single bibliography exists to enumerate all notes, cards, and assets in the library
 
-> [!attention] IMPORTANT
+> [!caution]
+> IMPORTANT
 > Every single asset that is included in the library must be accompanied by a citation. No exceptions.
 
 The bibliography groups assets by category and lists them alphabetically. Citations should accompany each asset. Assets are linked by their titles with their respective citations directly below them. Depending on the context of the vault, citations will be in either APA or Chicago style.
 
-> [!info] Example Bibliography Entry
+> [!note]
+> Example Bibliography Entry
 > [[Myth of the Privacy Paradox]]:
 Solove, Daniel J., The Myth of the Privacy Paradox (January 29, 2021). 89 George Washington Law Review 1 (2021), GWU Legal Studies Research Paper No. 2020-10, GWU Law School Public Law Research Paper No. 2020-10, Available at SSRN: https://ssrn.com/abstract=3536265 or http://dx.doi.org/10.2139/ssrn.3536265 
 
